@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../java-soap-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/integrations/repos/jenkinsci-xlrelease-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/integrations/repos/xld-kubernetes-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/integrations/repos/xld-openshift-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/integrations/repos/xli-plugins-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/integrations/repos/xlr-openshift-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/integrations/repos/xlrelease-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/personal/repos/asciidoctor-gradle-examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/yes/yes-genie-platform" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/yes/yes-genie-testautomation" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="59" />
+    <option name="y" value="-4" />
+    <option name="width" value="1296" />
+    <option name="height" value="772" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+</project>
